@@ -1,5 +1,5 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
-需要打包再刷入N1
+基于lede源码编译，需要打包再刷入N1
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
